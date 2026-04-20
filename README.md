@@ -16,7 +16,7 @@ hrid's split keyboard is a sleek, custom staggered ortholinear wireless split ke
 
 |Schematic|PCB|Case|
 |---|---|---|
-|!(photos/schematic.png)[Schematic of the keyboard]|!(photos/pcb.png)[PCB for the keyboard]|!(photos/case.png)[Case for the keyboard]|
+|![Schematic of the keyboard](photos/schematic.png)|![PCB for the keyboard](photos/pcb.png)|![Case for the keyboard](photos/case.png)|
 
 # Notes
 
